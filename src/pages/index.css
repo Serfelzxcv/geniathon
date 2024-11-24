@@ -1,0 +1,16 @@
+/* index.css */
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  main {
+    margin-top: 64px; /* Altura del AppBar */
+  }
+  
+  @media (min-width: 600px) {
+    main {
+      margin-left: 240px; /* Ancho del Drawer */
+    }
+  }
+  
